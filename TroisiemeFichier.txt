@@ -1,3 +1,6 @@
 ceci est un test d'ajout de fihcier apres un premier commit
 
 maintenant, on ajoute le fihcier, on fait un commit, on modifie le commit et on push la modification dans la branche master
+
+On modifie grandement le fichier et finalement on se rend compte que ce n'est pas ce qu'on veut après avoir fait le push...
+
